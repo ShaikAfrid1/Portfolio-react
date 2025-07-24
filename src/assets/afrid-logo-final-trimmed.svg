@@ -1,0 +1,12 @@
+
+<svg width="240" height="80" viewBox="0 0 240 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="teardropGradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#DF8908"/>
+      <stop offset="100%" stop-color="#B415FF"/>
+    </linearGradient>
+  </defs>
+  <rect width="240" height="80" fill="#161513"/>
+  <path d="M180 50C180 49 181 48 182 48L220 52C225 53 230 50 229 45C228 40 223 38 219 40L184 54C181.5 55 180 53.5 180 50Z" fill="url(#teardropGradient)" />
+  <text x="30" y="55" font-family="Arial, sans-serif" font-size="45" fill="white" font-weight="bold" letter-spacing="2">Afrid</text>
+</svg>
